@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+      
+}
+
+#bottom-stuff {
+    padding: 0px 30px 30px 30px;
+    margin-left:300px;
+    position: relative;
+}
+
+#bottom{
+
+    position: absolute; bottom: 0px; 
+}
+
+#img{
+	background-size: 50%;
+}
